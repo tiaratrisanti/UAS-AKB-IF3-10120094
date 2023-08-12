@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="my_primary">#D0CAB2</color>
+    <color name="teal_200">#ff03dac5</color>
+    <color name="teal_700">#EFA6A6</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#FFFFFFFF</color>
+    <color name="colorPrimaryDark">#FFFFFFFF</color>
+    <color name="colorAccent">#FFFFFFFF</color>
+    <!--color untuk button-->
+    <color name="gradient_start_color">#EFA6A6</color>
+    <color name="gradient_end_color">#EFA6A6</color>
+    <!--color untuk tab dan screen text-->
+    <color name="tab_indicator_gray">#c0c0c0</color>
+    <color name="intro_title_color">#000000</color>
+    <color name="intro_description_color">#656565</color>
+
+</resources>
